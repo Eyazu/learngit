@@ -7,3 +7,5 @@ Creating a new branch is quick.
 
 Creating a new branch is quick and simple.
 Not Fast forward test.
+
+Fixed the bug.
