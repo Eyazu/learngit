@@ -4,4 +4,6 @@ Git is good.
 Git has a mutable index called stage.
 Git tracks changed.
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick and simple.
+
